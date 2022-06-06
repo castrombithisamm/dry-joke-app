@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dry-joke-app/static/css/main.5d3ecd0b.css",
+    "main.js": "/dry-joke-app/static/js/main.4cece5c0.js",
+    "static/js/787.d5069ce8.chunk.js": "/dry-joke-app/static/js/787.d5069ce8.chunk.js",
+    "index.html": "/dry-joke-app/index.html",
+    "main.5d3ecd0b.css.map": "/dry-joke-app/static/css/main.5d3ecd0b.css.map",
+    "main.4cece5c0.js.map": "/dry-joke-app/static/js/main.4cece5c0.js.map",
+    "787.d5069ce8.chunk.js.map": "/dry-joke-app/static/js/787.d5069ce8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d3ecd0b.css",
+    "static/js/main.4cece5c0.js"
+  ]
+}
