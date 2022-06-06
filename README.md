@@ -1,1 +1,1 @@
-This is a random dryjoke machine, owned by Castro Mbithi
+This is a random dryjoke app, owned by Castro Mbithi
