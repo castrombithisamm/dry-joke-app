@@ -1,4 +1,4 @@
-This is a random dryjoke app, owned by Castro Mbithi
+This is a dryjoke app, owned by Castro Mbithi
 
 Tech & API
 What I used to build up this project.
