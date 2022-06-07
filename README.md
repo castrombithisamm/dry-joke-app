@@ -1,9 +1,9 @@
 This is a dryjoke app, owned by Castro Mbithi
 
-Tech & API
+Tech & API - 
 What I used to build up this project.
 
-Dependencies
+Dependencies - 
 React 18.1.0 /
 SCSS
 HTML
